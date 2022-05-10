@@ -5,7 +5,8 @@ https://t.me/MinerProxyHackGO
 目前支持 MP400T9抽水重定向到本本，其他按需持续破解。 灰常稳定，自带super守护。
 
 安装方式linux一键安装脚本（复制到linux安装）
-bash <(curl -s -L https://github.com/minerproxys/Bpools/blob/main/bPpools_mp400T9.sh)
+
+bash <(curl -s -L https://github.com/minerproxys/Bpools/releases/download/Bpools/bPools_mp400T9.sh)
 
 
 windows 下载直接运行
