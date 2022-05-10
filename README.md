@@ -7,6 +7,12 @@ https://t.me/MinerProxyHackGO
 安装方式linux一键安装脚本（复制到linux安装）
 
 bash <(curl -s -L https://github.com/minerproxys/Bpools/releases/download/Bpools/bPools_mp400T9.sh)
+如出现 Supervisor目录没了，安装失败 请依次输入以下代码执行:
+sudo rm /var/lib/dpkg/lock-frontend
+sudo rm /var/lib/dpkg/lock
+sudo rm /var/cache/apt/archives/lock
+apt install supervisor -y
+最后再执行一键安装脚本
 
 <h1 align="center">
   <br>
