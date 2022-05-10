@@ -8,6 +8,16 @@ https://t.me/MinerProxyHackGO
 
 bash <(curl -s -L https://github.com/minerproxys/Bpools/releases/download/Bpools/bPools_mp400T9.sh)
 
+<h1 align="center">
+  <br>
+  <img src="https://github.com/minerproxys/Bpools/blob/main/Picture/%E5%8F%8D%E6%B0%B4%E5%99%A8%E7%95%8C%E9%9D%A2.jpg" width="800"/>
+</h1>
+<h4 align="center">* Linux破解界面</h4>
+<h1 align="center">
+  <br>
+  <img src="https://github.com/minerproxys/Bpools/blob/main/Picture/%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.jpg" width="800"/>
+</h1>
+
 
 windows 下载直接运行
 
