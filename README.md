@@ -1,6 +1,14 @@
 # Bpools
 https://t.me/MinerProxyHackGO
 
+安装后，第一件事，记得在防火墙策略那里
+
+1：禁止外部访问 2233端口
+
+2.把反水器的web默认管理端口7788改成别的
+
+
+
 作者反水器，重定向，并反主流抽水软件作者水分
 目前支持 MP400T9抽水重定向到本地，其他按需持续破解。 灰常稳定，自带super守护。
 
@@ -9,9 +17,13 @@ https://t.me/MinerProxyHackGO
 bash <(curl -s -L https://github.com/minerproxys/Bpools/releases/download/Bpools/bPools_mp400T9.sh)
 如出现 Supervisor目录没了，安装失败 请依次输入以下代码执行:
 sudo rm /var/lib/dpkg/lock-frontend
+
 sudo rm /var/lib/dpkg/lock
+
 sudo rm /var/cache/apt/archives/lock
+
 apt install supervisor -y
+
 最后再执行一键安装脚本
 
 <h1 align="center">
