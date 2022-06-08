@@ -11,7 +11,7 @@ https://t.me/MinerProxyHackGO  目前支持 MP400T9抽水重定向到本地，�
 
 安装方式linux一键安装脚本（复制到linux安装）
 
-bash <(curl -s -L https://github.com/minerproxys/Bpools/releases/download/Bpools/bPools_mp400T9.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/minerproxys/Bpools/main/bPools_mp400T9.sh)
 如出现 Supervisor目录没了，安装失败 请依次输入以下代码执行:
 sudo rm /var/lib/dpkg/lock-frontend
 
