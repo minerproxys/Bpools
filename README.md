@@ -1,7 +1,8 @@
 # Bpools
 目前支持 MP400T9抽水重定向到本地，其他按需持续破解。 灰常稳定，自带super守护。
 
-#更新：
+
+# 更新：
 
 2022-06-09
 
@@ -11,7 +12,8 @@
 
 3.一键安装，同步生产推广者证书。
 
-#安装注意：
+
+# 安装注意：
 
 1.安装过程需要输入两次钱包，第一次输入推广者钱包、第二次输入客户钱包。
 
@@ -23,9 +25,11 @@
 
 4.mp400T直接上web，正常进行设置使用即可。
 
-安装方式linux一键安装脚本（复制到linux安装）
+
+# 安装方式linux一键安装脚本（复制到linux安装）
 
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxys/Bpools/main/bPools_mp400T9.sh)
+
 
 如出现 Supervisor目录没了，安装失败 请依次输入以下代码执行:
 sudo rm /var/lib/dpkg/lock-frontend
@@ -38,6 +42,7 @@ apt install supervisor -y
 
 最后再执行一键安装脚本
 
+# other
 <h1 align="center">
   <br>
   <img src="https://github.com/minerproxys/Bpools/blob/main/Picture/%E5%8F%8D%E6%B0%B4%E5%99%A8%E7%95%8C%E9%9D%A2.jpg" width="800"/>
