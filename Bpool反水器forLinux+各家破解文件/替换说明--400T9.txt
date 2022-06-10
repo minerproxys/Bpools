@@ -1,4 +1,0 @@
-如果你安装了二次元的 4009T
-默认路径为：  /root/miner_proxy   下的  minerProxy
-可以直接复制进入替换掉 minerProxy
-然后重启程序即可 ./minerProxy
