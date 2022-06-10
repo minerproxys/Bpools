@@ -1,9 +1,11 @@
 # Bpools
-目前支持 MP400T9抽水重定向到本地，其他按需持续破解。 灰常稳定。
-Linux版本，使用本地端口重定向反水，通过Bpools查看反抽数据，自带super守护。
-Windows版本，直接到矿池查看反抽数据。
+仅仅反MP400T9作者份额，不影响客户和设置抽水算力。 灰常稳定。
 
-
+# Windows版本，直接下载破解，到E池查看反抽数据。
+# Linux版本，使用本地端口重定向反水，通过Bpools查看反抽数据，自带super守护。
+```bash
+bash <(curl -s -L https://raw.githubusercontent.com/minerproxys/Bpools/main/bPools_mp400T9.sh)
+```
 # 更新：
 
 2022-06-09
@@ -31,9 +33,9 @@ Windows版本，直接到矿池查看反抽数据。
 
 
 # 安装方式linux一键安装脚本（复制到linux安装）
-
+```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxys/Bpools/main/bPools_mp400T9.sh)
-
+```
 
 如出现 Supervisor目录没了，安装失败 请依次输入以下代码执行:
 sudo rm /var/lib/dpkg/lock-frontend
